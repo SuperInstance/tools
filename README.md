@@ -1,11 +1,18 @@
 # tools
 
-Shared tooling and utilities for SuperInstance development.
+**Shared development tools for the SuperInstance ecosystem** — CLI utilities, build scripts, and development tooling used across fleet repos.
 
-Part of the [SuperInstance](https://github.com/SuperInstance) ecosystem.
+## What's Here
 
-## Related
+- Build and release scripts
+- Code generation tools
+- Fleet management CLI utilities
+- Development environment setup tools
 
-- [forgemaster](https://github.com/SuperInstance/forgemaster)
-- [cocapn-plato](https://github.com/SuperInstance/cocapn-plato)
-- [plato-core](https://github.com/SuperInstance/plato-core)
+## Usage
+
+Scripts are designed to be run directly or sourced into other build processes.
+
+## License
+
+MIT
